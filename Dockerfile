@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM python:3.9-alpine
 MAINTAINER riddam jain
 
 ENV PYTHONUNBUFFERED=1
